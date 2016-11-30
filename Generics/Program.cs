@@ -56,7 +56,7 @@ namespace Generics
             b = 20;
             e = 'I';
             d = 'V';
-
+            Console.WriteLine("");
             Console.WriteLine("Int values before swap:");
             Console.WriteLine("a={0}, b={1}", a, b);
             Console.WriteLine("Char values before swap:");
